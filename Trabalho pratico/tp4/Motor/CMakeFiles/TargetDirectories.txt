@@ -1,0 +1,3 @@
+M:/UMinho/Current/2º Semestre/Computação Gráfica/CG Git/Trabalho Prático/tp4/Motor/CMakeFiles/Motor.dir
+M:/UMinho/Current/2º Semestre/Computação Gráfica/CG Git/Trabalho Prático/tp4/Motor/CMakeFiles/ALL_BUILD.dir
+M:/UMinho/Current/2º Semestre/Computação Gráfica/CG Git/Trabalho Prático/tp4/Motor/CMakeFiles/ZERO_CHECK.dir
